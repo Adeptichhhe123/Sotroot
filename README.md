@@ -1,0 +1,2 @@
+# Sotroot
+greaator ud compiller
